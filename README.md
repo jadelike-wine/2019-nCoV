@@ -27,3 +27,7 @@ python作业，爬取疫情数据并且做图
 
 
 同时为了防止网页丢失，我存了一些数据，开启了GitHub page，也就是存在本项目下的两个html文件，网址是https://jadelike-wine.github.io/2019-nCoV/
+
+
+
+知乎：https://zhuanlan.zhihu.com/p/148632831
